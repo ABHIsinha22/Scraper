@@ -11,10 +11,16 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+<<<<<<< HEAD
     "cheerio": "^1.1.2",
     "crawlee": "^3.15.1",
     "csv-writer": "^1.6.0",
     "playwright": "^1.55.1",
     "puppeteer": "^24.22.3"
+=======
+    "crawlee": "^3.15.0",
+    "csv-writer": "^1.6.0",
+    "playwright": "^1.55.1"
+>>>>>>> f76a2ad9fc51655a9f606f27968d8656b5ead59e
   }
 }
