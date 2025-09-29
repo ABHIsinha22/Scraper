@@ -1,0 +1,309 @@
+{
+  "usableSessionsCount": 4,
+  "retiredSessionsCount": 0,
+  "sessions": [
+    {
+      "id": "session_uBM37UP1rO",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "T",
+            "value": "TI175915589641000105682868663775248478676064409984832399920314002346",
+            "expires": "2026-09-29T14:24:56.000Z",
+            "maxAge": 31536000,
+            "domain": "flipkart.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-09-29T14:24:56.981Z",
+            "lastAccessed": "2025-09-29T14:24:56.981Z",
+            "sameSite": "none"
+          },
+          {
+            "key": "SN",
+            "value": "VI1F648E21C5C24C2597A7084BE96FE080.TOKF077E64015564BBFAC4119CA29413E0B.1759155896446.LO",
+            "expires": "2026-03-31T05:19:32.000Z",
+            "maxAge": 15778476,
+            "domain": "flipkart.com",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2025-09-29T14:24:56.984Z",
+            "lastAccessed": "2025-09-29T14:24:56.984Z"
+          },
+          {
+            "key": "at",
+            "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImQ2Yjk5NDViLWZmYTEtNGQ5ZC1iZDQyLTFkN2RmZTU4ZGNmYSJ9.eyJleHAiOjE3NjA4ODM4OTYsImlhdCI6MTc1OTE1NTg5NiwiaXNzIjoia2V2bGFyIiwianRpIjoiN2NiYWUxMjEtOTY5MC00Njk2LWJlNDctYTg5ZmRhMmY0YWE1IiwidHlwZSI6IkFUIiwiZElkIjoiVEkxNzU5MTU1ODk2NDEwMDAxMDU2ODI4Njg2NjM3NzUyNDg0Nzg2NzYwNjQ0MDk5ODQ4MzIzOTk5MjAzMTQwMDIzNDYiLCJrZXZJZCI6IlZJMUY2NDhFMjFDNUMyNEMyNTk3QTcwODRCRTk2RkUwODAiLCJ0SWQiOiJtYXBpIiwidnMiOiJMTyIsInoiOiJDSCIsIm0iOnRydWUsImdlbiI6NH0.9nzl-a7L45jFT15WPMcreJQ3TP9aOZ2TAnyuV-PBo4Q",
+            "expires": "2026-03-31T05:19:32.000Z",
+            "maxAge": 15778476,
+            "domain": "flipkart.com",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2025-09-29T14:24:56.987Z",
+            "lastAccessed": "2025-09-29T14:24:56.987Z"
+          },
+          {
+            "key": "rt",
+            "value": "null",
+            "expires": "2026-03-31T05:19:32.000Z",
+            "maxAge": 15778476,
+            "domain": "flipkart.com",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2025-09-29T14:24:56.987Z",
+            "lastAccessed": "2025-09-29T14:24:56.987Z"
+          },
+          {
+            "key": "K-ACTION",
+            "value": "null",
+            "expires": "2026-03-31T05:19:32.000Z",
+            "maxAge": 15778476,
+            "domain": "flipkart.com",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2025-09-29T14:24:56.987Z",
+            "lastAccessed": "2025-09-29T14:24:56.987Z"
+          },
+          {
+            "key": "ud",
+            "value": "8.icdr18KS5w96Lsef0YQs06AUSXXarlyO4ZYd7SDY3iqtssg6kNGprY2LT7DScKO76BBhKXwiJpFSEm5WihtP8kK2i8bwqqWg90dI7W1kavLCjGkDpQCNgzQAl8d6dHm5KadbwvQTIFu715rUhOu1_w",
+            "expires": "2026-03-31T05:19:32.000Z",
+            "maxAge": 15778476,
+            "domain": "flipkart.com",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2025-09-29T14:24:56.987Z",
+            "lastAccessed": "2025-09-29T14:24:56.987Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-09-29T15:14:55.900Z",
+      "createdAt": "2025-09-29T14:24:55.900Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_fBDVSJqFKx",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "T",
+            "value": "TI175915589709800181524332823749212563961267115457000888106257104569",
+            "expires": "2026-09-29T14:24:57.000Z",
+            "maxAge": 31536000,
+            "domain": "flipkart.com",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-09-29T14:24:57.500Z",
+            "lastAccessed": "2025-09-29T14:24:57.500Z",
+            "sameSite": "none"
+          },
+          {
+            "key": "SN",
+            "value": "VI6477739DC83C4C59BD014902A4DDFD2A.TOKEC56E55F646140CBB2B1B19D22E85747.1759155897182.LO",
+            "expires": "2026-03-31T05:19:33.000Z",
+            "maxAge": 15778476,
+            "domain": "flipkart.com",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2025-09-29T14:24:57.500Z",
+            "lastAccessed": "2025-09-29T14:24:57.500Z"
+          },
+          {
+            "key": "at",
+            "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IjFkOTYzYzUwLTM0YjctNDA1OC1iMTNmLWY2NDhiODFjYTBkYSJ9.eyJleHAiOjE3NjA4ODM4OTcsImlhdCI6MTc1OTE1NTg5NywiaXNzIjoia2V2bGFyIiwianRpIjoiNjFmZDNkMTgtYzMyMC00NDdmLTg2MDctOWY1ZTgyNzYzMzkwIiwidHlwZSI6IkFUIiwiZElkIjoiVEkxNzU5MTU1ODk3MDk4MDAxODE1MjQzMzI4MjM3NDkyMTI1NjM5NjEyNjcxMTU0NTcwMDA4ODgxMDYyNTcxMDQ1NjkiLCJrZXZJZCI6IlZJNjQ3NzczOURDODNDNEM1OUJEMDE0OTAyQTREREZEMkEiLCJ0SWQiOiJtYXBpIiwidnMiOiJMTyIsInoiOiJIWUQiLCJtIjp0cnVlLCJnZW4iOjR9.x1SBrjOIIEJ5tevxLJNOEaF-x1EomceGn3Gdeh1IwEM",
+            "expires": "2026-03-31T05:19:33.000Z",
+            "maxAge": 15778476,
+            "domain": "flipkart.com",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2025-09-29T14:24:57.500Z",
+            "lastAccessed": "2025-09-29T14:24:57.500Z"
+          },
+          {
+            "key": "rt",
+            "value": "null",
+            "expires": "2026-03-31T05:19:33.000Z",
+            "maxAge": 15778476,
+            "domain": "flipkart.com",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2025-09-29T14:24:57.500Z",
+            "lastAccessed": "2025-09-29T14:24:57.500Z"
+          },
+          {
+            "key": "K-ACTION",
+            "value": "null",
+            "expires": "2026-03-31T05:19:33.000Z",
+            "maxAge": 15778476,
+            "domain": "flipkart.com",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2025-09-29T14:24:57.500Z",
+            "lastAccessed": "2025-09-29T14:24:57.500Z"
+          },
+          {
+            "key": "ud",
+            "value": "1.Fi97cbXq2dHNohHvhwt5IQQQ-3lLgphcH2IIHH8S8b52as_x4uqoFL8paEZjNkOxAo1u1tR8TLxQ7tVBO6Qysdpm7J4v45WOTCORit0oRidhcjv0FM_SuU9dNo7PtSMwVo3TYFjGBn195_KuS_X5_w",
+            "expires": "2026-03-31T05:19:33.000Z",
+            "maxAge": 15778476,
+            "domain": "flipkart.com",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2025-09-29T14:24:57.500Z",
+            "lastAccessed": "2025-09-29T14:24:57.500Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-09-29T15:14:57.005Z",
+      "createdAt": "2025-09-29T14:24:57.005Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_MX4AFsh26Z",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-09-29T15:14:57.793Z",
+      "createdAt": "2025-09-29T14:24:57.793Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_CTsHibvneW",
+      "cookieJar": {
+        "version": "tough-cookie@6.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "session-id",
+            "value": "524-0484633-6968714",
+            "expires": "2026-09-29T14:24:58.651Z",
+            "domain": "amazon.in",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-09-29T14:25:02.943Z",
+            "lastAccessed": "2025-09-29T14:25:02.943Z"
+          },
+          {
+            "key": "session-id-time",
+            "value": "2082787201l",
+            "expires": "2026-09-29T14:24:58.652Z",
+            "domain": "amazon.in",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-09-29T14:25:02.943Z",
+            "lastAccessed": "2025-09-29T14:25:02.943Z"
+          },
+          {
+            "key": "i18n-prefs",
+            "value": "INR",
+            "expires": "2026-09-29T14:24:58.652Z",
+            "domain": "amazon.in",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-09-29T14:25:02.943Z",
+            "lastAccessed": "2025-09-29T14:25:02.943Z"
+          },
+          {
+            "key": "lc-acbin",
+            "value": "en_IN",
+            "expires": "2026-09-29T14:24:58.652Z",
+            "domain": "amazon.in",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-09-29T14:25:02.943Z",
+            "lastAccessed": "2025-09-29T14:25:02.943Z"
+          },
+          {
+            "key": "ubid-acbin",
+            "value": "257-7365049-7177557",
+            "expires": "2026-09-29T14:25:00.407Z",
+            "domain": "amazon.in",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-09-29T14:25:02.943Z",
+            "lastAccessed": "2025-09-29T14:25:02.943Z"
+          },
+          {
+            "key": "csm-hit",
+            "value": "tb:s-QVGQ6F29H9Y4ZRG7GH05|1759155899258&t:1759155900434&adb:adblk_no",
+            "expires": "2026-09-14T14:25:00.000Z",
+            "domain": "www.amazon.in",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2025-09-29T14:25:02.943Z",
+            "lastAccessed": "2025-09-29T14:25:02.943Z"
+          },
+          {
+            "key": "session-token",
+            "value": "zdsAr8yxm+V3Pi5v0QgM2ADdKCNP49o6eC5M3tscrDNUNhM+KoycfY8KgUYrby39uDbfFg6HgqzFaGKrKJiebzZOEIW7GkRkf7/+i58iIFsMr6pyUdpjaJvptpsaxdM/Yr0hpj5Tjrp7XaTNyVM5nerMYfpIqi+w+mEAWBZVhZuxW1OC6LkVRoYupshroVWKhn4/JhJNIPKoOQFA5vptovzPZs1UOU48A0TxedweGDYtskuYK/HGgLZJbgfN0INLL2UZ8yNbL1+czmAtEkPBZqBWrJYtdRFoh9T03lm9c0R6dVR3hUwgQbCo05zMDQFKxkP9aTqDan5gK2PekU6CCh4v9mFqTXcU",
+            "expires": "2026-09-29T14:25:01.649Z",
+            "domain": "amazon.in",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-09-29T14:25:02.943Z",
+            "lastAccessed": "2025-09-29T14:25:02.943Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-09-29T15:14:57.794Z",
+      "createdAt": "2025-09-29T14:24:57.794Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    }
+  ]
+}
